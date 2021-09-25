@@ -68,7 +68,11 @@
     <Compile Include="Configuration\BrowserType.cs" />
     <Compile Include="Configuration\AppConfigReader.cs" />
     <Compile Include="Interfaces\IConfig.cs" />
+<<<<<<< HEAD
     <Compile Include="TestScript\PageNavigation\AppConfigKeys.cs" />
+=======
+    <Compile Include="Settings\AppConfigKeys.cs" />
+>>>>>>> 16f97e9b0ec9025e5f5bdbf3f379bf0f44786895
     <Compile Include="Settings\ObjectRepository.cs" />
     <Compile Include="TestScript\PageNavigation\JupiterAssignmentTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
